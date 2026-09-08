@@ -71,163 +71,173 @@
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 
-🛠️ Tech Stack
-💻 Programming Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,html,css&perline=7"/> </div>
 
-🌐 Full-Stack & Backend Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,fastapi,flask,tailwind&perline=7"/> </div>
 
-🤖 AI / Machine Learning
-<div align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine%20Learning-ML-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Recommendation%20Systems-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/> </div>
+---
 
-🧠 AI/ML Concepts
-<div align="center">
+## 🛠️ Tech Stack
 
-Machine Learning • NLP • Recommendation Systems
+### 💻 Programming Languages
 
-TF-IDF • Cosine Similarity • Jaccard Similarity
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,html,css" />
+</p>
 
-Predictive Modeling • Feature Matching • Data Processing
+### 🌐 Full-Stack & Backend Development
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,fastapi,flask,tailwind" />
+</p>
 
-☁️ Cloud, DevOps & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,git,github&perline=6"/> </div>
+### 🤖 AI / Machine Learning
 
-🗄️ Databases
-<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=6"/> </div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-🧠 Computer Science Fundamentals
-<div align="center"> <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-00599C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-OOP-F7931E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Database%20Management%20Systems-DBMS-4479A1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-OS-555555?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-CN-00897B?style=for-the-badge"/> </div>
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expertise-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Expertise-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-ML-EC4E20?style=for-the-badge" />
+</p>
 
-🚀 Featured Projects
-🤖 AI-Based Internship Recommendation Engine
-<div align="center">
-Machine Learning • Recommendation System • Full Stack
-</div>
+**AI/ML Concepts:**
 
-Role: Model Developer
-Date: September 2025
+`Machine Learning` `NLP` `Recommendation Systems` `TF-IDF` `Cosine Similarity` `Jaccard Similarity` `Predictive Modeling`
 
-An ML-based recommendation system that matches candidates with relevant internship opportunities based on:
+### ☁️ Cloud & DevOps
 
-Skills • Education • Interests • Location
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
-✨ Key Features
-🎯 Personalized internship recommendations
-🧠 Jaccard Similarity
-📊 TF-IDF
-📐 Cosine Similarity
-📝 NLP-based matching
-🌐 Full-stack application architecture
-🛠️ Technologies
+### 🗄️ Databases
 
-Python Flask Pandas Scikit-learn
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
-React.js Node.js MongoDB Tailwind CSS NLP
+---
 
-🌱 EcoPack AI
-<div align="center">
-AI-Powered Sustainable Packaging Optimization
-</div>
+## 🧠 Computer Science Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-OOP-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Management%20Systems-DBMS-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-OS-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-CN-00897B?style=for-the-badge" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Based Internship Recommendation Engine
+
+An ML-based recommendation system that matches candidates with relevant internships based on:
+
+**Skills • Education • Interests • Location**
+
+### 🔥 Key Features
+
+- Personalized internship recommendations
+- Jaccard Similarity
+- TF-IDF
+- Cosine Similarity
+- NLP-based matching
+- Full-stack architecture
+
+### 🛠️ Technologies
+
+`Python` `Flask` `React.js` `MongoDB` `Node.js` `Tailwind CSS` `Scikit-learn` `NLP`
+
+---
+
+## 🌱 EcoPack AI — Sustainable Packaging Optimization
 
 An AI-driven platform designed to recommend sustainable packaging materials based on product attributes and environmental impact.
 
-✨ Key Features
-♻️ Sustainable material recommendation
-📊 Material ranking system
-💰 Cost optimization
-🌍 CO₂ emission reduction
-🤖 Machine Learning-based decision making
-🛠️ Technologies
+### 🔥 Key Features
 
-Flask REST API PostgreSQL
+- Sustainable material recommendation
+- Material ranking system
+- Cost optimization
+- CO₂ emission reduction
+- Machine Learning-based decision making
 
-HTML CSS JavaScript Bootstrap XGBoost
+### 🛠️ Technologies
 
-🌾 Farmer-to-Consumer E-Commerce Marketplace
-<div align="center">
-Full-Stack Agricultural Marketplace
-</div>
+`Flask REST API` `PostgreSQL` `HTML` `CSS` `JavaScript` `Bootstrap` `XGBoost`
+
+---
+
+## 🌾 Farmer-to-Consumer E-Commerce Marketplace
 
 A full-stack marketplace connecting farmers directly with customers while reducing intermediaries.
 
-✨ Key Features
-👨‍🌾 Direct farmer-to-consumer marketplace
-🛒 Agricultural product ordering
-📦 Bulk orders
-⚡ On-demand orders
-🌐 Full-stack web architecture
-🛠️ Technologies
+### 🔥 Key Features
 
-React.js Node.js Express.js
+- Direct farmer-to-consumer marketplace
+- Agricultural product ordering
+- Bulk orders
+- On-demand orders
+- Full-stack web application
 
-MongoDB Tailwind CSS
+### 🛠️ Technologies
 
-🎯 Currently Working On
-<div align="center">
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       💻 FULL-STACK DEVELOPMENT             ║
-║                    ↓                         ║
-║       🧠 DATA STRUCTURES & ALGORITHMS       ║
-║                    ↓                         ║
-║       🤖 AI / MACHINE LEARNING              ║
-║                    ↓                         ║
-║       ⚙️ BACKEND & REST APIs                ║
-║                    ↓                         ║
-║       ☁️ CLOUD COMPUTING & AWS              ║
-║                    ↓                         ║
-║       🏗️ SOFTWARE ARCHITECTURE              ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-🤝 Open to Collaborate
-<div align="center">
+---
 
-🤖 AI / Machine Learning
+# 🎯 What I'm Currently Working On
 
-🌐 Full-Stack Development
+💻 Building **Full-Stack Web Applications**
 
-⚙️ Backend Development
+🧠 Strengthening **Data Structures & Algorithms**
 
-☁️ Cloud & AWS
+🤖 Developing **AI/ML Applications**
 
-🔓 Open Source
+☁️ Learning **Cloud Computing & AWS**
 
-🏆 Hackathons
+⚙️ Improving **Backend Development & REST APIs**
 
-🚀 Software Engineering
+🏗️ Learning **System Design & Scalable Software Architecture**
 
-</div>
+---
 
-💬 Ask Me About
-<div align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/DSA-00599C?style=flat-square"/> <br> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/AI%2FML-412991?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square"/> <br> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </div>
+# 🤝 I'm Looking to Collaborate On
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suprabha5637&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+🔹 AI / Machine Learning Projects
 
-<br><br>
+🔹 Full-Stack Web Applications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprabha5637&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+🔹 Backend Development
 
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=suprabha5637&theme=tokyonight&hide_border=true"/> </div>
+🔹 Cloud & AWS Projects
 
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suprabha5637&theme=tokyo-night&hide_border=true&area=true&custom_title=Suprabha's%20Contribution%20Graph"/> </div>
+🔹 Open Source Projects
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/suprabha5637/suprabha5637/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </div>
+🔹 Hackathon Projects
 
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/suprabha5637"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/suprabha5637"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:developersuprabha@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+🔹 Innovative Software Engineering Projects
 
-⚡ Developer Philosophy
-<div align="center">
-Build with purpose. Solve with logic.
+---
 
-CODE • LEARN • BUILD • SOLVE
+# 🌱 Currently Learning
 
-</div>
+```text
+Data Structures & Algorithms
+          ↓
+Software Engineering
+          ↓
+Backend Development
+          ↓
+Cloud Computing
+          ↓
+AWS
+          ↓
+System Design
+          ↓
+AI / Machine Learning

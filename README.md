@@ -274,25 +274,6 @@ Software Engineering
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suprabha5637&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/suprabha5637/suprabha5637/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
